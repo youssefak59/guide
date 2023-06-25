@@ -1,0 +1,181 @@
+    {
+        "GuideData": {
+            "AdsController": {
+                "BannerAd": "admob",
+                "InterstitialAd": "admob",
+                "NativeAd": "admob",
+
+                "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+                "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+                "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+                "maxBanner": "ab20a9d7cbcc246b",
+                "maxInterstitial": "436adcdacbb42aec",
+                "maxNative": "64ea2f2ef41edb34",
+
+                "ironsource_appKey": "1011dee21",
+
+                "unity_game_id": "3883855",
+                "unity_test": true,
+                "unity_banner": "banner",
+                "unity_interstitial": "video",
+
+                "ImageBanner": true,
+                "ImageBannerImg": "https://i.postimg.cc/tJ4zBn8c/cpa1.png",
+                "ImageBannerURL": "https://www.google.com"
+            },
+            "items": [{
+                    "title": "10,000 robux",
+                    "image": "https://i.postimg.cc/wBMV1rHR/maxresdefaultsx.jpg",
+                    "color": "#000000",
+                    "text_size": "15",
+                    "isLink": true,
+                    "link_title": "Get Robux",
+                    "setLink": "https://www.google.com",
+                    "image_link": "https://www.google.com",
+                    "text": "Many websites and apps offer rewards, including Robux, for completing surveys, watching videos, or installing apps. While some of these sites may be scams or unreliable, there are legitimate platforms that you can use to earn Robux. Some examples include Swagbucks, PrizeRebel, and Survey Junkie. However, keep in mind that earning Robux through these methods may take some time, and you may not get a large amount of Robux in one go.",
+                    "isNative": true,
+                    "background": "#FFFFFF"
+                },
+                {
+                    "title": "Participate in Giveaways and Contests",
+                    "image": "https://i.postimg.cc/cLZkLTrf/maxresdefault.jpg",
+                    "color": "#000000",
+                    "text_size": "15",
+                    "isLink": false,
+                    "link_title": "",
+                    "setLink": "",
+                    "image_link": "",
+                    "text": "Participating in giveaways and contests on Roblox can be an opportunity to potentially win free Robux or other prizes. Here are a few ways you can try to find and participate in such giveaways and contests:
+                    1 / Roblox Social Media Accounts: Follow Roblox 's official social media accounts, including Twitter, Instagram, and Facebook. Roblox occasionally announces giveaways and contests on these platforms. Keep an eye out for any promotional posts or announcements regarding Robux giveaways or contests.
+                    2 / Roblox Forums and Community Events: Engage with the Roblox community by participating in forums,
+                    groups,
+                    or attending virtual events.Some community members or Roblox groups organize giveaways and contests where you can have a chance to win Robux or other prizes.Stay active and look out
+                    for such community - driven initiatives.
+                    3 / Roblox Official Events: Roblox occasionally hosts official events,
+                    such as special in -game events or virtual concerts.During these events,
+                    they may organize giveaways or contests as part of the celebration.Stay updated with Roblox 's event announcements and participate for a chance to win prizes.
+                    4 / Roblox Influencer Giveaways: Many Roblox content creators and influencers occasionally host giveaways on their social media channels or in their Roblox games.You can follow popular Roblox YouTubers,
+                    Twitch streamers,
+                    or other influencers who may conduct giveaways from time to time.
+                    When participating in giveaways or contests,
+                    it 's essential to read and follow the rules and guidelines provided by the host. Be cautious of scams or suspicious offers that ask for personal information or account details. Stick to reputable sources and official Roblox platforms.
+                    Remember,
+                    winning giveaways or contests is not guaranteed,
+                    and it 's important to approach them with a realistic expectation. Enjoy the Roblox experience and engage with the community while being mindful of your account'
+                    s security and the terms of service.
+                    ",
+                    "isNative": true,
+                    "background": "#FFFFFF"
+                },
+                {
+                    "title": "Use Roblox Promo Codes",
+                    "image": "https://i.postimg.cc/3RbFjF8f/Roblox-Promo-Codes-1200x628.jpg",
+                    "color": "#000000",
+                    "text_size": "15",
+                    "isLink": false,
+                    "link_title": "",
+                    "setLink": "",
+                    "image_link": "",
+                    "text": "Roblox occasionally releases promo codes that can be redeemed for free items, accessories, or in some cases, even Robux. Here's how you can use Roblox promo codes:
+                    Visit the Roblox official website or open the Roblox app.
+
+                    1. Log in to your Roblox account.If you don t have an account,
+                    you
+                    ll need to create one.
+
+                    2. Navigate to the Roblox Promo Code Redemption page.You can access it by going to the official Roblox website s promo code redemption page or through the Roblox app
+                    s promo code redemption section.
+
+                    3. Enter the promo code in the text field provided.Promo codes are typically a combination of letters,
+                    numbers,
+                    and sometimes symbols.
+
+                    4. Click or tap on the Redeem
+                    button to submit the promo code.
+
+                    5. If the promo code is valid and still active,
+                    the corresponding item,
+                    accessory,
+                    or Robux will be added to your account.You may need to check your avatar s inventory or the Promo Codes section to see the redeemed items.
+
+                    6. Enjoy your free item,
+                    accessory,
+                    or Robux!
+                    ",
+                    "isNative": false,
+                    "background": "#FFFFFF"
+                },
+                {
+                    "title": "Play Roblox Games",
+                    "image": "https://i.ibb.co/6JqbTdk/images-1.jpg",
+                    "color": "#000000",
+                    "text_size": "15",
+                    "isLink": false,
+                    "link_title": "",
+                    "setLink": "",
+                    "image_link": "",
+                    "text": "Some Roblox games offer Robux as a reward for playing and completing certain tasks. For instance, the game “Adopt Me!” offers players the chance to earn Robux by taking care of virtual pets and completing quests. Similarly, the game “Tower of Hell” gives Robux to players who reach the top of the tower. Look out for such games and try to play them regularly to earn free Robux.",
+                    "isNative": false,
+                    "background": "#FFFFFF"
+                },
+                {
+                    "title": "Trade Items with Other Players",
+                    "image": "https://i.postimg.cc/SKNx0FQR/image.png",
+                    "color": "#000000",
+                    "text_size": "15",
+                    "isLink": false,
+                    "link_title": "",
+                    "setLink": "",
+                    "image_link": "",
+                    "text": "Finally, you can also trade virtual items, such as skins, accessories, and game passes, with other Roblox players for Robux. You can use the official Roblox trading system to make secure transactions and ensure that you get a fair deal. However, be cautious of scams and always double-check the value of the items you are trading.",
+                    "isNative": false,
+                    "background": "#FFFFFF"
+                },
+                {
+                    "title": "Join Roblox Affiliate Program",
+                    "image": "https://i.postimg.cc/ZnvQMDv0/how-to-join-the-roblox-affiliate-program.jpg",
+                    "color": "#000000",
+                    "text_size": "15",
+                    "isLink": false,
+                    "link_title": "",
+                    "setLink": "",
+                    "image_link": "",
+                    "text": "The Roblox Affiliate Program allows individuals to earn commissions by promoting Roblox and driving new users to the platform. Here are the general steps to join the Roblox Affiliate Program:
+                    1. Visit the Roblox website: Go to the Roblox website at www.roblox.com.
+                    2. Scroll to the bottom: Scroll down to the bottom of the page,
+                    where you 'll find the footer section.
+                    3. Click on Affiliates: In the footer section,
+                    look
+                    for the Affiliates
+                    link.Click on it to access the Roblox Affiliate Program page.
+                    4. Review the program details: On the Roblox Affiliate Program page,
+                    you ll find information about the program,
+                    including commission rates,
+                    requirements,
+                    and guidelines.Take the time to review and understand the terms of the program.
+                    5. Sign in or create a Roblox account: If you already have a Roblox account,
+                    sign in using your credentials.If you don t have an account,
+                    you
+                    ll need to create one by clicking on the Sign Up
+                    button and following the registration process.
+                    6. Agree to the terms: After signing in or creating an account,
+                    you may need to agree to the Roblox Affiliate Program 's terms and conditions. Make sure to read a
+                    nd understand the terms before proceeding.
+                    7. Provide necessary information: Fill out any required information,
+                    such as your website URL or social media channels,
+                    to complete your affiliate application.The specific information required may vary
+                    depending on the program 's requirements.
+                    8. Submit your application: Once you have provided the necessary information,
+                    submit your affiliate application
+                    for review.Roblox will evaluate your application based on their criteria,
+                    and
+                    if approved,
+                    you will receive further instructions on how toget started with the program.
+                    ",
+                    "isNative": false,
+                    "background": "#FFFFFF"
+                }
+            ]
+        }
+    }
